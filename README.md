@@ -1,4 +1,4 @@
 # Demo
 
 Some description.
-Other description.
+Additional description.
